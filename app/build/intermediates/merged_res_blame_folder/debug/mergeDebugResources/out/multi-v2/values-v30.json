@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.minisegurancaapp-mergeDebugResources-44:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cliente\\.gradle\\caches\\8.13\\transforms\\354bfe5a6c3c7702b5fdca6b57339bea\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
